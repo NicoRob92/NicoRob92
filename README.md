@@ -1,9 +1,15 @@
-### Hi there 👋
+###*** Buenas buenas!! 👋🐱‍🏍🐱‍🏍***
+
+ Soy Nicolas Robledo 👋🏼👋🏼
+
+### Siempre me interese mucho por la programacion, comence con Java, estuvo interesante y divertido.
+### Aprendi un poco de videojuegos utilizando C# , Blender y Unity, para llevar a cabo mis proyectos en los que me diverti demasiado.
+### Y descubri el desarrollo web en el camino, lo que me llevo al dia de hoy recibirme de Full-Stack Web developer!
 
 <!--
-**NicoRob92/NicoRob92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NicoRob92/NicoRob92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
