@@ -4,7 +4,7 @@
 
 *💻*💻*De chico siempre me interese mucho por la programacion, comence con Java, estuvo interesante y divertido y en mi cabeza sonaba "ESTO ME GUSTAAA!!".*
 
-🎮🎮*Paso un tiempo y aprendi un poco de videojuegos utilizando C# , Blender y Unity, para llevar a cabo mis proyectos, esta etapa fue fascinante aprendi de muchisimas herramientas y en me pregunte "que habra mas alla?".*
+🎮🎮*Paso un tiempo y aprendi un poco de videojuegos utilizando C# , Blender y Unity, para llevar a cabo mis proyectos, esta etapa fue fascinante aprendi de muchisimas herramientas y entonces me pregunte "que habra mas alla?".*
 
 💻💻 *Y descubri el desarrollo web en el camino, lo que me llevo al dia de hoy recibirme de Full-Stack Web developer!*
 
